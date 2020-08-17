@@ -1,4 +1,9 @@
+## Rubén Hernández Puerta | @RubDevs
+___
+
 ### Hi there 👋
+
+I'm a Mexican developer and tech passionate, I'm learning new technologies every day and do my best to improve myself.
 
 <!--
 **RubDevs/RubDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
