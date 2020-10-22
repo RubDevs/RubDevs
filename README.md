@@ -3,7 +3,7 @@ ___
 
 ### Hi there 👋
 
-I'm a Mexican developer and tech passionate, I'm learning new technologies every day and do my best to improve myself.
+I'm a Mexican Backend developer and tech passionate, I'm learning new things every day and do my best to improve myself.
 
 ### Tools and Skills
 
