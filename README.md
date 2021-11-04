@@ -12,7 +12,7 @@
 
 <h3>Some things about me</h3>
 <p>
-👨‍💻  &nbsp;&nbsp;I'm currently working as DevOps Engineer at <a href="https://www.marivalresorts.com/" target="_blank">@MarivalResorts</a>.
+👨‍💻  &nbsp;&nbsp;I'm currently working as NodeJS Developer at <a href="https://www.globant.com/" target="_blank">@Globant</a>.
 
 💬 &nbsp;&nbsp;If you want to contact me. Email: <a href="mailto:ruben@rubdevs.com">ruben@rubdevs.com</a>.
 </p>
