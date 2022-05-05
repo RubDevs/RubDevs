@@ -1,7 +1,6 @@
 <p align='center'>
   <a href="https://rubdevs.com/" target="_blank"><img src="https://img.shields.io/badge/web_page-0A84FF.svg?&style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rubdevs/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://platzi.com/p/rubenhernandezpuerta/" target="_blank"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/ruben_hernandez2" target="_blank"><img src="https://img.shields.io/badge/hacker%20rank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -26,7 +25,6 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/php-%2314354C.svg?style=for-the-badge&logo=php)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
 ![WebRTC](https://img.shields.io/badge/-Webrtc-23092E20?style=for-the-badge&logo=webrtc)
 
@@ -35,7 +33,6 @@
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 
 <h4>Version Control</h4>
@@ -54,6 +51,8 @@
 <h4>Testing</h4>
 
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%238D6748?style=for-the-badge&logo=jest&logoColor=white)
+
 
 <h4>CI/CD</h4>
 
